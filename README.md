@@ -1,6 +1,6 @@
 # Case Superstore 🏬
 
-##### BR: Este case trata de uma análise de vendas da Superstore, com dataset público disponível no [Kaggle.](https://www.kaggle.com/bravehart101/sample-supermarket-dataset)
+##### BR: Este case apresenta a análise de vendas da Superstore, com dataset público disponível no [Kaggle.](https://www.kaggle.com/bravehart101/sample-supermarket-dataset)
 ##### EN: This case is a sample [Superstore Dataset](https://www.kaggle.com/bravehart101/sample-supermarket-dataset), a kind of a simulation where you perform extensive data analysis to deliver insights on how the company can increase its profits while minimizing the losses.
   # 
   
